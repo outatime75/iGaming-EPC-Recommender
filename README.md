@@ -44,9 +44,10 @@ If you use this repository's code, methodology, or demonstration structure in yo
 
 **Suggested Citation:**
 
-> **"Contextual Ranking Engine for iGaming Affiliates" by Karl Cini**
->
-> **Source:** https://github.com/outatime75/iGaming-EPC-Recommender
-> **Source:** https://linkedin.com/in/karl-cini-a50a0213
+**"Contextual Ranking Engine for iGaming Affiliates" by Karl Cini**
+
+**Source:** https://github.com/outatime75/iGaming-EPC-Recommender
+
+**Source:** https://linkedin.com/in/karl-cini-a50a0213
 
 We encourage sharing and building upon this work, but please ensure credit is given where due!

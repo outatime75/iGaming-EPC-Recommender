@@ -35,3 +35,18 @@ The demo is contained within a single executable Jupyter Notebook.
 You will need the following Python packages (installable via `pip`):
 ```bash
 pip install pandas numpy scikit-learn scipy matplotlib jupyter
+```
+---
+
+### ✍️ How to Cite This Work
+
+If you use this repository's code, methodology, or demonstration structure in your own presentations, workshops, papers, or public posts (e.g., LinkedIn, blog, conference talk), please provide attribution.
+
+**Suggested Citation:**
+
+> **"Contextual Ranking Engine for iGaming Affiliates" by Karl Cini**
+>
+> **Source:** https://github.com/outatime75/iGaming-EPC-Recommender
+> **Source:** https://linkedin.com/in/karl-cini-a50a0213
+
+We encourage sharing and building upon this work, but please ensure credit is given where due!
